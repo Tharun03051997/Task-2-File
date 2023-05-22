@@ -1,0 +1,5 @@
+1.Write a blog on difference between document & windows object 
+
+Document object refers to the process of convertng given html file into tree like structure and helps to display as user readable for from binary to characters, on the other hand windows
+object refers to the window in which document object file present.
+
